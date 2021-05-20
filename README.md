@@ -1,6 +1,6 @@
 # Python 100例
 
-Python 2.7 被确定为最后一个 Python 2.x 版本。本项目的100个实例在Python2.7下测试通过，如有运行问题请参考[实例来源](https://www.runoob.com/python/python-100-examples.html)
+本项目的100个实例在Python2.7下测试通过，如有运行问题请参考[实例来源](https://www.runoob.com/python/python-100-examples.html)
 
 ### 练习实例
 * [Python 练习实例1](./examples/001.py)
